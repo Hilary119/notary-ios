@@ -1,0 +1,14 @@
+{
+  "name": "ny-notary-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NY Notary Public License Law — study app (iOS wrapper via Capacitor)",
+  "dependencies": {
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/ios": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/assets": "^3.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# iOS build artifacts
+ios/App/Pods/
+ios/App/App.xcworkspace/xcuserdata/
+ios/DerivedData/
+
+# Generated assets (regenerate with: npx @capacitor/assets generate --ios)
+assets/icon-only.png
+
+# macOS
+.DS_Store
